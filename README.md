@@ -14,4 +14,4 @@ Test your guessing skills and see how quickly you can find the **perfect number*
 - The program gives hints: **Lower number please** or **Higher number please**.
 - Your score is also calculated.
 
-Live Link: 
+Live Link: https://github.com/likkypriya/The-Perfect-Guess-Game/blob/d935975d8a49e0477e0041bca2146f34fde813bf/perfect_guess.py
