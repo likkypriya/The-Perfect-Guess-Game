@@ -1,5 +1,3 @@
-# The-Perfect-Guess-Game
-
 # 🎯 Perfect Guess Game
 
 A Python-based number guessing game with **difficulty levels** and a **scoring system**.  
